@@ -1,2 +1,5 @@
-# dio-desafio-github-novo-repositorio
-Desafio da DIO sobre Git/GitHub
+# Entrega de Projeto sobre Git/GitHub da DIO
+Git/GitHub - Desafio de Novo Repositório
+
+## Links Úteis
+[Markdown](https://www.markdownguide.org/)
